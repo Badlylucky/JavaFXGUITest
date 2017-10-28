@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="test">
+    <output-path>$PROJECT_DIR$/exe</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="sample.Main" />
+        <option name="description" value="Test" />
+        <option name="height" value="360" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="all" />
+        <option name="title" value="Test" />
+        <option name="vendor" value="Agamerlike" />
+        <option name="version" value="" />
+        <option name="width" value="640" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="test.jar">
+        <element id="module-output" name="test" />
+      </element>
+    </root>
+  </artifact>
+</component>
